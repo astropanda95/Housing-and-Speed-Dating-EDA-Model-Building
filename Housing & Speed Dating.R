@@ -11,7 +11,7 @@ library(rpart.plot)
 library(DMwR2) 
 library(Ecdat)
 
-#Task1
+#Housing Data
 
 #Calling the housing data
 data(Housing)
@@ -64,7 +64,7 @@ printcp(rpart.housing.1se)
 
 
 
-#Task2
+#Speed Dating Data
 
 #Calling relevant libraries
 library(randomForest)
